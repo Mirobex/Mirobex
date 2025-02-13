@@ -1,0 +1,8 @@
+installer "@tabler/icons-vue": "^2.47.0" ou autre,
+
+
+
+    utiliser active pour les services
+.nav-link.router-link-active {
+  @apply border-primary text-primary;
+}

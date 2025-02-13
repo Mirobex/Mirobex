@@ -1,0 +1,25 @@
+{
+  "name": "Mirobex",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@headlessui/vue": "^1.7.19",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "@tabler/icons-vue": "^3.30.0",
+    "nuxt": "^3.15.4",
+    "swiper": "^11.0.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/google-fonts": "^3.1.3",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.35",
+    "tailwindcss": "^3.4.1"
+  }
+}
